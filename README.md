@@ -2,7 +2,7 @@
 
 > A smart work-rest timer built for people who work long hours at a laptop. Built with vibe coding.
 
-**[▶ Live Demo](https://your-username.github.io/pausa)**
+**[▶ Live Demo](https://shrouk-cyber.github.io/Pausa/)**
 
 ---
 
